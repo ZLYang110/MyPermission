@@ -2,7 +2,7 @@
 
 Android轻量级权限申请。简单方便
 
- （运行时权限、未知应用安装权限、悬浮窗权限、显示通知和访问通知权限）
+运行时权限、未知应用安装权限、悬浮窗权限、显示通知和访问通知权限
 
 
 [GitHub主页](https://https://github.com/ZLYang110/MyPermission)
@@ -22,6 +22,11 @@ Android轻量级权限申请。简单方便
 
 在申请多个权限时，本框架采用排队方式申请，即先申请第一个权限，第一个申请成功后再进行下一个的申请流程，第一个失败则为本次申请失败。
 
+# 运行截图
+
+(https://https://github.com/ZLYang110/MyPermission/screenshot/Screenshot_20200503.jpg)
+(https://https://github.com/ZLYang110/MyPermission/screenshot/Screenshot_20200503_164747.jpg)
+(https://https://github.com/ZLYang110/MyPermission/screenshot/Screenshot_20200503_164735.jpg)
 
 # 使用说明
 
