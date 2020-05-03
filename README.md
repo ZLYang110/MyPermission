@@ -24,9 +24,9 @@ Android轻量级权限申请。简单方便
 
 # 运行截图
 
-(https://https://github.com/ZLYang110/MyPermission/screenshot/Screenshot_20200503.jpg)
-(https://https://github.com/ZLYang110/MyPermission/screenshot/Screenshot_20200503_164747.jpg)
-(https://https://github.com/ZLYang110/MyPermission/screenshot/Screenshot_20200503_164735.jpg)
+![示例图](https://https://github.com/ZLYang110/MyPermission/screenshot/Screenshot_20200503.jpg)
+![示例图](https://https://github.com/ZLYang110/MyPermission/screenshot/Screenshot_20200503_164747.jpg)
+![示例图](https://https://github.com/ZLYang110/MyPermission/screenshot/Screenshot_20200503_164735.jpg)
 
 # 使用说明
 
