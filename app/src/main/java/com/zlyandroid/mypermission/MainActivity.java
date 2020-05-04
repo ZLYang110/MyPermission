@@ -85,7 +85,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 // TODO 授权失败
                 Toast.makeText(MainActivity.this , "失败", Toast.LENGTH_SHORT).show();
             }
-        },MainActivity.this,REQ_CODE_PERMISSION,Manifest.permission.CAMERA);
+        },MainActivity.this,REQ_CODE_PERMISSION,Manifest.permission.CAMERA,Manifest.permission.WRITE_EXTERNAL_STORAGE);
 
     }
 

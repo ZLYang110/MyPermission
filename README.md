@@ -5,9 +5,11 @@ Android轻量级权限申请。简单方便
 运行时权限、未知应用安装权限、悬浮窗权限、显示通知和访问通知权限
 
 
-[GitHub主页](https://https://github.com/ZLYang110/MyPermission)
+[GitHub主页](https://github.com/ZLYang110/MyPermission)
 
-[Demo下载](https://https://github.com/ZLYang110/MyPermission/raw/master/app/release/app-release.apk)
+[Demo下载](https://github.com/ZLYang110/MyPermission/raw/master/app/release/app-release.apk)
+
+[简书](https://www.jianshu.com/p/3c64052e6237)
 
 
 # 简介
@@ -24,9 +26,9 @@ Android轻量级权限申请。简单方便
 
 # 运行截图
 
-![示例图](https://https://github.com/ZLYang110/MyPermission/screenshot/Screenshot_20200503.jpg)
-![示例图](https://https://github.com/ZLYang110/MyPermission/screenshot/Screenshot_20200503_164747.jpg)
-![示例图](https://https://github.com/ZLYang110/MyPermission/screenshot/Screenshot_20200503_164735.jpg)
+![示例图](https://github.com/ZLYang110/MyPermission/blob/master/screenshot/Screenshot_20200503.jpg)
+![示例图](https://github.com/ZLYang110/MyPermission/blob/master/screenshot/Screenshot_20200503_164747.jpg)
+![示例图](https://github.com/ZLYang110/MyPermission/blob/master/screenshot/Screenshot_20200503_164735.jpg)
 
 # 使用说明
 
