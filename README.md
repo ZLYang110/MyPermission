@@ -25,10 +25,8 @@ Android轻量级权限申请。简单方便
 在申请多个权限时，本框架采用排队方式申请，即先申请第一个权限，第一个申请成功后再进行下一个的申请流程，第一个失败则为本次申请失败。
 
 # 运行截图
+<img src="https://github.com/ZLYang110/MyPermission/blob/master/screenshot/Screenshot_20200503.jpg" width = "300" height = "200" alt="图片名称"   /> <img src="https://github.com/ZLYang110/MyPermission/blob/master/screenshot/Screenshot_20200503_164747.jpg" width = "300" height = "200" alt="图片名称"   /> <img src="https://github.com/ZLYang110/MyPermission/blob/master/screenshot/Screenshot_20200503_164735.jpg" width = "300" height = "200" alt="图片名称"  />
 
-![示例图](https://github.com/ZLYang110/MyPermission/blob/master/screenshot/Screenshot_20200503.jpg)
-![示例图](https://github.com/ZLYang110/MyPermission/blob/master/screenshot/Screenshot_20200503_164747.jpg)
-![示例图](https://github.com/ZLYang110/MyPermission/blob/master/screenshot/Screenshot_20200503_164735.jpg)
 
 # 使用说明
 
